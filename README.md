@@ -19,9 +19,11 @@ The resume is built using  **HTML** and **CSS**, without any external libraries 
 - Semantic HTML for accessibility
 - Easily customizable content and styles
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stackh
 
 - **HTML5** – for semantic and structured content
 - **CSS3** – for styling and layout
 - No JavaScript or external dependencies required
 
+## Link to Resume
+https://github.com/SolomziD/My_Resume/blob/main/Resume.html
