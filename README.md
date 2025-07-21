@@ -27,3 +27,7 @@ The resume is built using  **HTML** and **CSS**, without any external libraries 
 
 ## Link to project
 https://github.com/SolomziD/My_Resume
+
+## Screanshot
+<img width="858" height="910" alt="image" src="https://github.com/user-attachments/assets/e98b818d-8c3b-4f56-9d9c-2c3a2f0d1398" />
+
