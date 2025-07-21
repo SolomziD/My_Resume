@@ -1,4 +1,4 @@
-<img width="480" height="358" alt="image" src="https://github.com/user-attachments/assets/18463810-6a14-4d65-a93e-493825de309b" /># Junior Frontend Developer Resume (HTML Template)
+# Junior Frontend Developer Resume (HTML Template)
 
 This project contains a clean, minimal HTML resume template designed for junior frontend developers. It includes custom styling and sections commonly found in professional CVs, with a focus on clarity and accessibility.
 
