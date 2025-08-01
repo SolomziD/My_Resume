@@ -6,6 +6,9 @@ This project contains a clean, minimal HTML resume template designed for junior 
 
 The resume is built using  **HTML** and **CSS**, without any external libraries or frameworks. This ensures fast load times and full browser compatibility while giving beginners a solid reference for creating or modifying a simple, printable resume webpage.
 
+## What is this?
+The goal of this project is to learn how to create a structured, single-page CV using only HTML from one of the front-end developer projects from Roadmap.sh
+https://roadmap.sh/projects/single-page-cv
 ## ✨ Features
 
 - Responsive and printable design
