@@ -8,7 +8,8 @@ The resume is built using  **HTML** and **CSS**, without any external libraries 
 
 ## What is this?
 The goal of this project is to learn how to create a structured, single-page CV using only HTML from one of the front-end developer projects from Roadmap.sh
-https://roadmap.sh/projects/single-page-cv
+Project link: https://roadmap.sh/projects/single-page-cv
+
 ## ✨ Features
 
 - Responsive and printable design
